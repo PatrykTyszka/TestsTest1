@@ -9,13 +9,31 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
+
     func someTestedFunction() {
         print("I'm tested")
     }
-    
+
+    func someTestedFunctionNext() {
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+        print("I'm tested")
+    }
+
     func someUntestedFunction() {
         print("I'm untested")
     }
-    
+
 }
