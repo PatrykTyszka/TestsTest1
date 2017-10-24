@@ -25,11 +25,6 @@ class ViewController: UIViewController {
         print("I'm tested")
         print("I'm tested")
         print("I'm tested")
-        print("I'm tested")
-        print("I'm tested")
-        print("I'm tested")
-        print("I'm tested")
-        print("I'm tested")
     }
 
     func someUntestedFunction() {
